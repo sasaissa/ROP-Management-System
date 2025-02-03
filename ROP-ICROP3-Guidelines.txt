@@ -1,0 +1,872 @@
+Document has 18 pages.
+
+
+--- Page 1 ---
+International Classi ﬁcation of Retinopathy of
+Prematurity, Third Edition
+Michael F. Chiang, MD,1Graham E. Quinn, MD, MSCE,2Alistair R. Fielder, FRCP,3Susan R. Ostmo, MS,4
+R.V. Paul Chan, MD,5Audina Berrocal, MD,6Gil Binenbaum, MD, MSCE,2Michael Blair, MD,7,8
+J. Peter Campbell, MD, MPH,4Antonio Capone, Jr., MD,9Yi Chen, MD,10Shuan Dai, MD,11Anna Ells, MD,12
+Brian W. Fleck, MD,13William V. Good, MD,14M. Elizabeth Hartnett, MD,15Gerd Holmstrom, MD, PhD,16
+Shunji Kusaka, MD, PhD,17Andrés Kychenthal, MD,18Domenico Lepore, MD,19Birgit Lorenz, MD, PhD,20,21
+Maria Ana Martinez-Castellanos, MD,22S¸engül Özdek, MD,23Dupe Ademola-Popoola, MD,24
+James D. Reynolds, MD,25Parag K. Shah, MD,26Michael Shapiro, MD,7Andreas Stahl, MD,27
+Cynthia Toth, MD,28Anand Vinekar, MD, PhD,29Linda Visser, MD,30David K. Wallace, MD, MPH,31
+Wei-Chi Wu, MD, PhD,32Peiquan Zhao, MD,33Andrea Zin, MD, PhD34
+Purpose: The International Classi ﬁcation of Retinopathy of Prematurity is a consensus statement that cre-
+ates a standard nomenclature for classi ﬁcation of retinopathy of prematurity (ROP). It was initially published in
+1984, expanded in 1987, and revisited in 2005. This article presents a third revision, the International Classi ﬁ-
+cation of Retinopathy of Prematurity, Third Edition (ICROP3), which is now required because of challenges suchas: (1) concerns about subjectivity in critical elements of disease classi ﬁcation; (2) innovations in ophthalmic
+imaging; (3) novel pharmacologic therapies (e.g., anti evascular endothelial growth factor agents) with unique
+regression and reactivation features after treatment compared with ablative therapies; and (4) recognition that
+patterns of ROP in some regions of the world do not ﬁt neatly into the current classi ﬁcation system.
+Design: Review of evidence-based literature, along with expert consensus opinion.
+Participants: International ROP expert committee assembled in March 2019 representing 17 countries and
+comprising 14 pediatric ophthalmologists and 20 retinal specialists, as well as 12 women and 22 men.
+Methods: The committee was initially divided into 3 subcommittees dacute phase, regression or reac-
+tivation, and imaging deach of which used iterative videoconferences and an online message board to identify
+key challenges and approaches. Subsequently, the entire committee used iterative videoconferences, 2 in-personmultiday meetings, and an online message board to develop consensus on classi ﬁcation.
+Main Outcome Measures: Consensus statement.
+Results: The ICROP3 retains current de ﬁnitions such as zone (location of disease), stage (appearance of
+disease at the avascular evascular junction), and circumferential extent of disease. Major updates in the ICROP3
+include re ﬁned classi ﬁcation metrics (e.g., posterior zone II ,notch, subcategorization of stage 5, and recognition
+that a continuous spectrum of vascular abnormality exists from normal to plus disease). Updates also include the
+deﬁnition of aggressive ROP to replace aggressive-posterior ROP because of increasing recognition that
+aggressive disease may occur in larger preterm infants and beyond the posterior retina, particularly in regions of
+the world with limited resources. ROP regression and reactivation are described in detail, with additional
+description of long-term sequelae.
+Conclusions: These principles may improve the quality and standardization of ROP care worldwide and may
+provide a foundation to improve research and clinical care. Ophthalmology 2021;
+-:1e18 Published by Elsevier on
+behalf of the American Academy of Ophthalmology
+In 1953, Reese et al1published a classi ﬁcation of retrolental
+ﬁbroplasia. By 1984, the International Classi ﬁcation of
+Retinopathy of Prematurity (ICROP) was developed by 23ophthalmologists from 11 countries.2This classi ﬁcation of
+acute retinopathy of prematurity (ROP) facilitated the ﬁrst
+multicenter clinical treatment study (the Cryotherapy forROP Study), demonstrating that ROP could be treated
+successfully,3thereby establishing the need for screening
+worldwide to identify a major cause of preventablechildhood blindness.In 1987, the ICROP was expanded to include retinal
+detachment,4and in 2005, it was revisited to incorporate
+advances during the intervening years.5Now, a third
+revision, the International Classi ﬁcation of Retinopathy of
+Prematurity, Third Edition (ICROP3), is required for
+several reasons. First, certain components of the ICROPare subjective and open to interpretation. Second,
+innovations in ophthalmic imaging have occurred. Third,
+introduction of anti evascular endothelial growth factor
+(VEGF) therapy has presented new challenges associated
+1 Published by Elsevier on behalf of the American Academy of Ophthalmology https://doi.org/10.1016/j.ophtha.2021.05.031
+ISSN 0161-6420/21
+
+--- Page 2 ---
+with recognition of clinical features characteristic of
+posttreatment regression and reactivation.6,7Finally, the
+pattern of ROP in regions of the world with limited
+resources is not adequately described by the current
+classi ﬁcation system. Key features and changes in the
+ICROP3, which are intended to address these challenges,are summarized in Table 1 . Each eye should be classi ﬁed
+using the following examination parameters, de ﬁned in
+this article: zone, plus disease, stage, and extent. Ifaggressive ROP (A-ROP) is present, it should be noted.
+Location of Vascularization: Zone
+Retinal vascularization commences around the thirteenthweek of gestation, proceeding centrifugally from the peri-
+papillary region to the peripheral retina, which is fully
+vascularized by approximately term.8The location of retinal
+vascularization provides an indication of infant maturity and
+risk of ROP developing. The developing vasculature is
+lobular and closer to the optic disc nasally thantemporally,9but as a practical matter, the state of
+vascularization (i.e., the zone) is recorded as circles withthe optic disc at the center.
+Three concentric retinal zones are centered on the disc
+and extend to the ora serrata ( Fig 1 ). The location of the
+most posterior retinal vascularization or ROP lesiondenotes the zone for the eye. The most posterior region,
+zone I, is de ﬁned by a circle with radius twice the
+estimated distance from the optic disc center to the fovealcenter. Zone II is a ring-shaped region extending nasally
+from the outer limit of zone I to the nasal ora serrata and
+with a similar distance temporally, superiorly, and inferi-orly. The committee de ﬁned a region of 2 disc diameters
+peripheral to the zone I border as posterior zone II to
+indicate potentially more worrisome disease than ROP in themore peripheral zone II ( Table 1 ).
+The committee introduced the term notch to describe an
+incursion by the ROP lesion of 1 to 2 clock hours along the
+horizontal meridian into a more posterior zone than theremainder of the retinopathy. When present, this should be
+Table 1. Summary of Key Components of International Classi ﬁcation of Retinopathy of Prematurity, 3rd Edition Classi ﬁcation
+1. Zone.
+a. De ﬁnition of 3 retinal zones centered on the optic disc. The location of the most posterior retinal vascularization or ROP lesion denotes the
+zone for the eye.
+b. De ﬁnition of a posterior zone II region that begins at the margin between zone I and zone II and extends into zone II for 2 disc diameters. *
+c. The term notch is used to describe an incursion by the ROP lesion of 1 e2 clock hours into a more posterior zone. The ROP zone for such eyes
+should be noted by the most posterior zone of retinal vascularization with the quali ﬁer“notch ”(e.g., “zone I secondary to notch ”).*
+2. Plus and Preplus Disease. Plus disease is de ﬁned by the appearance of dilation and tortuosity of retinal vessels, and preplus disease is de ﬁned by
+abnormal vascular dilation, tortuosity insuf ﬁcient for plus disease, or both. Recognition that retinal vascular changes in ROP represent a
+continuous spectrum from normal to preplus to plus disease, with sample images demonstrating this range. *These changes should be assessed by
+vessels within zone I, rather than from only vessels within the ﬁeld of narrow-angle photographs and rather than from the number of quadrants of
+abnormality. *
+3. Stage of Acute Disease (Stages 1 e3). Stage of acute disease is de ﬁned by the appearance of a structure at the vascular eavascular juncture as stage 1
+(demarcation line), stage 2 (ridge), and stage 3 (extraretinal neovascular proliferation or ﬂat neovascularization). If more than 1 ROP stage is
+present, the eye is classi ﬁed by the most severe stage.
+4. Aggressive ROP. The term aggressive-posterior ROP was used previously to describe a severe, rapidly progressive form of ROP located in posterior
+zones I or II. Because of increasing recognition that this may occur beyond the posterior retina and in larger preterm infants, particularly in region s
+of the world with limited resources, the Committee recommends the new term aggressive ROP. *
+5. Retinal Detachment (Stages 4 and 5).
+a. Stages of retinal detachment are de ﬁned as stage 4 (partial: 4A with fovea attached, 4B with fovea detached) and stage 5 (total).
+b. De ﬁnition of stage 5 subcategories: stage 5A, in which the optic disc is visible by ophthalmoscopy (suggesting open-funnel detachment); stage
+5B, in which the optic disc is not visible because of retrolental ﬁbrovascular tissue or closed-funnel detachment; and stage 5C, in which stage
+5B is accompanied by anterior segment changes (e.g., marked anterior chamber shallowing, iridocorneolenticular adhesions, corneal opaci-
+ﬁcation), suggesting closed-funnel con ﬁguration. *Additional descriptors of funnel con ﬁguration (e.g., open-closed) may be applied if clinically
+useful.
+6. Extent of Disease. De ﬁned as 12 sectors in using clock-hour designations.
+7. Regression. De ﬁnition of ROP regression and its sequelae, whether spontaneous or after laser or anti evascular endothelial growth factor treatment.
+Regression can be complete or incomplete. Location and extent of peripheral avascular retina (PAR) should be documented. *
+8. Reactivation. De ﬁnition and description of nomenclature representing ROP reactivation after treatment, which may include new ROP lesions and
+vascular changes. When reactivation of ROP stages occurs, the modi ﬁer reactivated (e.g., “reactivated stage 2 ”) is recommended. *
+9. Long-Term Sequelae. Emphasized beyond previous versions of the ICROP, including sequelae such as late retinal detachments, PAR, macular
+anomalies, retinal vascular changes, and glaucoma.
+ICROP ¼International Classi ﬁcation of Retinopathy of Prematurity; PAR ¼persistent avascular retina; ROP ¼retinopathy of prematurity
+Each eye should be classi ﬁed based on zone, plus disease, stage, and extent. If aggressive ROP is present, it should be noted.
+*Key changes compared with previous ICROP publications.Ophthalmology Volume -, Number -, Month 2021
+2
+
+--- Page 3 ---
+recorded by the most posterior zone of retinal vasculariza-
+tion with the quali ﬁer“secondary to notch ”(Table 1 ). For
+example, ROP in zone II in most places, but with a
+temporal notch extending into zone I, should be noted as
+“zone I secondary to notch, ”thereby distinguishing it
+from an eye in which most disease is present in zone I.
+Zone III is the residual crescent of peripheral retina that
+extends beyond zone II. To determine that ROP is in zoneIII, the ophthalmologist must ascertain that the nasal vesselsare vascularized to the ora serrata and no ROP is present in
+the 2 nasal-most clock hours ( Fig 1 , nasally).
+Practically, the temporal extent of zone I may be esti-
+mated using a 28-diopter (D) lens. For example, by placing
+the nasal edge of the optic disc at one edge of the view, the
+limit of zone I is approximately at the temporal edge of theview. With retinal photography, the fovea may not be
+clearly identi ﬁable in premature infants before 39 weeks ’
+postmenstrual age,
+10e12so the foveal location may be
+approximated as the center of the macula.
+Plus and Preplus Disease
+Severe ROP is associated with dilation and tortuosity of theposterior retinal vessels, termed plus disease in 1982.13A
+narrow-angle representative retinal photograph for plus
+disease was selected in the ICROP 1984.2A different
+photograph was selected for the Cryotherapy for ROPStudy and subsequent clinical trials to represent the
+minimum severity of vascular dilation and tortuosity
+necessary for plus disease.3,14In the ICROP 2005, preplus
+disease was de ﬁned to represent retinal vascular dilation
+and tortuosity that is abnormal, but insuf ﬁcient for plus
+disease.5Of note, the original ICROP description of plus
+disease in 1984 included features of vascular engorgement
+of the iris, poor pupillary dilation, and peripheral retinalvascular engorgement with vitreous haze,2which are now
+recognized as signs of advanced disease but are notnecessary for plus disease diagnosis.
+The committee recommends that the plus disease spectrum
+be determined from vessels within zone I, rather than fromonly vessels within the ﬁeld of narrow-angle photographs and
+rather than from the number of quadrants of abnormality
+(Table 1 ).
+4,5,15,16Representative examples of preplus disease
+(Fig 2 AeC) and plus disease ( Fig 2 DeF) demonstrate this
+approximate ﬁeld of view. The terms preplus and plus
+should continue to be used,17but the committee emphasizes
+that these terms represent a continuous spectrum of retinalvascular changes ( Table 1 ).Figure 3 demonstrates gradings
+of this spectrum by members of the Committee. Although
+gradings along this spectrum of plus and preplus diseasemay vary among observers,
+18e20better agreement exists at
+the normal and severe ends.21Importantly, in clinical
+practice, assessment of disease severity may consider otherfactors, including clinical and demographic risk factors,examination method (e.g., digital retinal imaging vs.
+indirect ophthalmoscopy, lens power), zone of pathologic
+featured, and rate of progression.
+22
+Stage of Acute Disease (Stages 1 e3)
+In the developing premature infant, the retina is vascularized
+incompletely ( Fig 4 ). When no ROP lesion is present, the
+Committee suggests using the term incomplete
+vascularization , accompanied by the zone of vascularization
+(e.g., “incomplete vascularization into zone II ”), rather than
+using terms such as no ROP orimmature retina .W h e na c u t e
+ROP vascular features develop at the junction of
+vascularized and avascular retina, the term stage is used to
+describe the appearance. If more than 1 ROP stage is present
+in the same eye, the eye is classi ﬁed by the most severe stage.
+Figure 1. Schema of right eye (RE) and left eye (LE) showing zone borders and clock hour sectors used to describe the location of vascularization and extent
+of retinopathy. Solid circles represent borders of zones I through III, and dotted circles represent borders of posterior zone II (2 disc diameters be yond zone I).
+A hypothetical example of examination ﬁndings is shown in LE, representing approximately 3 clock hours of stage 1 disease in zone II (note single line on
+drawing to document presence of stage 1 disease).Chiang et al/C15ICROP, 3rd Edition
+3
+
+--- Page 4 ---
+Stage 1: Demarcation Line
+The demarcation line is a thin structure at the
+vascular eavascular juncture ( Figs 5 A, B and 6A), which is
+relatively ﬂat and white, lies within the plane of the retina,
+and may be associated with abnormal branching of vesselsposterior to the line. Dilatation and tortuosity of peripheral
+retinal vessels at the vascular eavascular juncture alone are
+insufﬁcient for diagnosis of stage 1 disease.
+Stage 2: Ridge
+The hallmark of stage 2 ROP is a ridge with width and
+height that evolve from the demarcation line ( Figs 5 CeD,
+Fa n d Fig 6 B). The ridge may vary in height and its colormay appear to range from white to pink. Small isolated
+tufts of neovascular tissue lying on the surface of the
+retina, commonly called popcorn , can be seen posterior
+to the ridge ( Fig 5 D, F) but do not constitute stage 3
+disease.23,24
+Stage 3: Extraretinal Neovascular Proliferation
+In stage 3 ROP, extraretinal neovascular proliferation ex-
+tends from the ridge into the vitreous ( Figs 5 E, F and 6C)
+and is continuous with the posterior aspect of the ridge,
+causing a ragged appearance as proliferation becomes
+more extensive. Seemingly ﬂat-appearing extraretinal
+neovascularization can occur in eyes with zone I or posterior
+zone II disease, in the absence of an obvious ridge or
+Figure 2. Wide-angle fundus photographs demonstrating examples of plus disease and preplus disease. Note varying levels of vascular abnormality, which are
+assessed in the central retina within the region of zone I. A, Mild preplus disease, with more arterial tortuosity and venous dilation than normal. B, Preplus
+disease, with notable arterial tortuosity but minimal venous dilation. C, Preplus disease, with moderate arterial tortuosity and venous dilation, but considered
+by most committee members to be insuf ﬁcient for plus disease. D, Plus disease with notable venous dilation and arterial tortuosity. Note that plus disease is
+out of proportion to visible peripheral ﬁndings, suggestive of ﬂat neovascularization (stage 3; white arrows). E, Severe plus disease, with dilation and
+tortuosity of both arteries and veins. F, Severe plus disease. Note presence of ill-de ﬁned posterior ﬂat stage 3 (arrows), which, combined with severe plus
+disease, is typical of aggressive retinopathy of prematurity.Ophthalmology Volume -, Number -, Month 2021
+4
+
+--- Page 5 ---
+demarcation line, and is also considered stage 3 disease.
+Varying degrees of extraretinal neovascular tissue may be
+associated with stage 3 disease ( Figs 5 E, F and 6C).Aggressive Retinopathy of Prematurity
+Aggressive-posterior RO Pw a sa d d e dt ot h eI C R O Pi n
+2005 to describe a severe, rapidly progressive form ofROP located in zone I or posterior zone II.5Previously
+known as rush disease , it may have been the ﬂorid acute
+ROP seen in the 1940s.1Aggressive-posterior ROP as
+originally described typicall y affected the smallest pre-
+mature infants.5,25However, aggressive ROP is
+increasingly recognized also to occur in larger preterm
+infants and beyond the posterior retina, particularly inregions of the world with limited resources.26Therefore,
+because the key diagnostic features of this phenotype are
+the tempo of disease and appearance of vascularabnormalities, but not location of disease, the Committee
+recommends use of the new term aggressive retinopathy
+of prematurity (A-ROP) to replace aggressive-posterior
+ROP ( Table 1 ).
+The hallmark of A-ROP is rapid development of
+pathologic neovascularization and severe plus diseasewithout progression being o bserved through the typical
+stages of ROP. In early A-ROP, the retina may exhibit
+capillary abnormalities posterior to the original border of
+vascularized retina, such as arteriovenous shuntingresembling dilated vascular loops surrounding areas of
+vascular injury ( Fig 7 A ) .I ns o m ec a s e s ,t h i sc a nb e
+extreme with apparent loss of almost the entire
+Figure 3. Continuous spectrum of vascular severity in retinopathy of prematurity from normal to plus disease. All 34 members of this committee graded 30
+images as normal, preplus, or plus. Experts ’opinions varied as to the level of disease severity that constitutes preplus and plus disease. A, Six representative
+images are displayed in which the color scale on top re ﬂects the average grading of committee members (from green [normal] to red [plus disease]) and
+demonstrates that vascular severity presents on a continuum. B, Nine representative segmented images are displayed in which the color scale represents
+mean vascular severity grading by committee members for each image (from green [normal] to red [plus disease]) and demonstrates that vascular severi ty
+presents on a continuum.
+Figure 4. Wide-angle fundus photograph demonstrating incomplete vascu-
+larization into zone II in the right eye of a premature infant at risk for reti-nopathy of prematurity. Note progressive tapering and termination of retinal
+vascular arcades (white arrows). Permission to reproduce previously published
+images from Arch Ophthalmol 2005;123:991-999.Chiang et al/C15ICROP, 3rd Edition
+5
+
+--- Page 6 ---
+vascularized retina ( Fig 7 ). Eyes in which A-ROP develop
+with more posterior disease may have thin vessels withinzone I early in the disease co urse. Eyes with A-ROP often
+demonstrate a form of stage 3 disease that may appear as
+deceptively featureles sn e t w o r k so fs o - c a l l e d ﬂat neo-
+vascularization ( Fig 7 B, C), which can be dif ﬁcult to
+visualize using a 28-D lens on ophthalmoscopy, but the
+use of greater magni ﬁcation (e.g., 20-D lens) or ﬂuores-
+cein angiography may be helpful. Of note, extraretinalneovascularization as seen in classic stage 3 disease can
+also be seen in eyes with A-ROP ( Fig 7 C).
+27Retinal Detachment (Stages 4 and 5)
+Acute disease and its regression are not always demarcated
+clearly. This is particularly apparent in retinal detachment,
+where both may occur simultaneously.
+Stage 4: Partial Retinal Detachment
+Stage 4 describes partial retinal detachment, which either
+spares (stage 4A; Fig 8 A, B) or involves (stage 4B; Fig 8 C,
+E) the fovea. Clinical features suggesting retinal
+Figure 5. Wide-angle fundus photographs demonstrating examples of acute retinopathy of prematurity (ROP) stages 1 through 3. A, Stage 1 demarcation
+line at the border between vascular and avascular retina (white arrows). B, Stage 1 demarcation line (white arrows) and associated notch (black arrowheads)
+between vascular arcades that would be considered zone I secondary to notch. Note preplus disease with mild retinal vascular tortuosity and dilation .
+C, Stage 2 ridge, which is raised (white arrows) and thicker than stage 1. D, Stage 2 ridge. Note the so-called popcorn lesions posterior to the ridge (arrow)
+and preplus disease with mild vascular tortuosity and dilation. E, Stage 3 disease with extraretinal neovascularization (white arrows). Note plus d isease with
+vascular tortuosity and dilation. F, Eye with both stage 2 (black arrowheads) and stage 3 (white arrowheads) disease and associated popcorn (white arrows).
+Note plus disease with vascular tortuosity and dilation. Figs 5E and 5F: Permission to reproduce previously published images from Arch
+Ophthalmol 2005;123:991-999.Ophthalmology Volume -, Number -, Month 2021
+6
+
+--- Page 7 ---
+detachment include loss of ﬁne detail of choroidal
+vasculature or of granular pigment epithelium, a ground-
+glass appearance relative to adjacent attached retina, or
+both. Macular ectopia and straightening of arcade vesselsare signs of peripheral tractio n. Subtle foveal involvementmay be discerned most effectively using OCT imaging
+(Fig 9 ). Stage 4 ROP may be exudative or tractional, occur
+in treated or untreated eyes, and vary in appearance
+depending on the tractional vectors and presence ofexudation.
+28,29
+Figure 6. OCT images demonstrating examples of retinopathy of prematurity stages 1 through 3. OCT cross-sectional B-scans (left side) are extracted from
+the raster scans that make up the OCT volume, at the location of the green-line (right side). The en face OCT images (right side) are summed from the
+OCT volume, and blood in retinal vessels casts a shadow across the underlying retina and choroid. A, Stage 1 demarcation line (white arrows) on cross-
+sectional B-scan OCT image (left side) align with the retinal vascular eavascular junction (right side; note that the vascular retina is to the left in all images).
+B, Stage 2 ridge (white arrows) on cross-sectional B-scan OCT image (left side) at a site of focal thickening and bulge of inner retinal layers aligns wit h the
+en face (right side) wider dark border of the vascular eavascular junction. C, Stage 3 extraretinal neovascular proliferation at (white arrows) and posterior to
+(arrowheads) the vascular eavascular junction on cross-sectional B-scan OCT image (left side) and on en face view (right side). Note that blood in the
+extraretinal vessels also casts a shadow across the underlying retina and choroid.Chiang et al/C15ICROP, 3rd Edition
+7
+
+--- Page 8 ---
+Exudative stage 4 detachments occur most commonly
+within days after laser trea tment. They are typically
+convex, sometimes localized, a nd self-limited. Tractional
+detachments are associated with progressive ﬁbrovascular
+organization and vitreous haze and may be associated with
+lipid or subretinal hemorrhage or both ( Fig 8 D).
+Distinction by clinical examin ation between retinoschisis
+and detachment can be dif ﬁcult. Eyes with A-ROP can
+demonstrate a unique posterior so-called volcano trac-tional detachment28generally involving the fovea, in
+which the peripheral retina remains attached ( Fig 8 E).
+Although the clinical appearance is reminiscent of astage 5 funnel-shaped detachment, these are morecorrectly considered stage 4B disease because the treatedperipheral retina remains attached and the detachment
+therefore is not total.
+Stage 5: Total Retinal Detachment
+Total retinal detachment is designated as stage 5 ( Fig 10 )
+and currently classi ﬁed by con ﬁguration of the funnel:
+open-open (open anterior and posteriorly), open-closed
+(open anteriorly and closed posteriorly), closed-open(closed anteriorly and open posteriorly), or closed-closed
+(closed anteriorly and posteriorly). When ﬁbrosis pre-
+cludes visualization of the posterior pole, the extent ofdetachment must be examined by B-scan ultrasonography.
+To permit classi ﬁcation of stage 5 by bedside examination,
+Figure 7. Images depicting aggressive retinopathy of prematurity (A-ROP). A, Fundus photograph showing aggressive ROP (A-ROP) with severe vaso-
+constriction, capillary nonperfusion, nonphysiologic dilated vascular loops, and arteriovenous shunts and plus disease in zone I. B, Fundus photograph
+showing A-ROP with border between vascular and avascular retina in zone I, dilated vascular loops (white arrows), diffuse ﬂat extraretinal neo-
+vascularization most prominent superotemporally, and severe plus disease. Note the absence of a typical stage 3 lesion. C, Fundus photograph showing A-
+ROP in zone I with severe plus disease, ﬂat extraretinal neovascularization with ﬁbrosis, and early contraction superiorly (white arrowheads) and intraretinal
+and vitreous hemorrhage superotemporally. D,E, Wide-angle fundus photographs (left sides) demonstrating A-ROP with ill-de ﬁned junction between
+vascular and avascular retina in zone I (white arrows) and severe plus disease, and ﬂuorescein angiography (right sides) demonstrating signi ﬁcant vaso-
+obliteration with capillary nonperfusion. Note that no typical ROP lesions appear and vasoattenuated areas appear posterior to the ridge.Ophthalmology Volume -, Number -, Month 2021
+8
+
+--- Page 9 ---
+the Committee now recommends that total detachment be
+subcategorized into 3 con ﬁgurations:30e32stage 5A, in
+which the optic disc is visible by ophthalmoscopy ( Fig 10 A,
+suggesting open-funnel detachment); stage 5B, in which the
+optic disc is not visible secondary to retrolental ﬁbrovas-
+cular tissue or closed-funnel detachment ( Fig 10 B, C); and
+stage 5C, in which ﬁndings of stage 5B are accompanied
+by anterior segment abnormalities (e.g., anterior lens
+displacement, marked anterior chamber shallowing,iridocapsular adhesions, capsule-endothelial adhesion with
+central corneal opaci ﬁcation, or a combination thereof;
+Fig 10 D, suggesting a closed-funnel con ﬁguration).4,33
+Additional descriptors of funnel con ﬁguration (e.g., open-
+closed) may be applied if clinically useful.Extent
+Extent of disease is classi ﬁed using 30/C14sectors with
+boundaries along clock-hour positions ( Fig 1 ).
+Regression, Reactivation, and Long-Term
+Sequelae
+To date, ROP classi ﬁcation has focused on acute disease,
+with less attention to regression.4,5,33The introduction of
+anti-VEGF agents has presented new challenges. The clin-ical features and time course of regression after anti-VEGF
+treatment of ROP differ compared with those of laser-treated
+Figure 8. Wide-angle fundus photographs demonstrating examples of retinopathy of prematurity (ROP) stage 4. A, Stage 4A ROP in the temporal retina.
+Traction on extraretinal neovascularization leads to retinal elevation (white dots), which may be recognized during ophthalmoscopy by subtle chan ge in
+brightness and loss of visible retinal pigment epithelium granularity and choriocapillaris detail. Note that the approximate foveal center (aster isk) is not elevated
+and the extraretinal neovascularization (white arrows) may be signi ﬁcantly more peripheral than the posterior extent of the detachment. B, Stage 4A ROP with
+360/C14tractional retinal detachment in the area of the peripheral ridge. C, Stage 4B detachment involving the macula. Note straightening of the arcuate vessels
+and dragged of the optic disc appearance. D, Stage 4B detachment with associated subretinal hemorrhage and lipid exudation into the macula. E, Volcano-
+shaped stage 4B ROP. In eyes with posterior ROP, contraction of pathologic neovascularization can result in detachment of vascularized retina into avolcano-shaped con ﬁguration. Fig 8C : Permission to reproduce previously published images from Areh Ophthalmol 2005;123:991-999.Chiang et al/C15ICROP, 3rd Edition
+9
+
+--- Page 10 ---
+eyes. When describing later phases of ROP, the Committee
+recommends use of 2 terms ( Table 1 ): (1) regression , which
+refers to disease involution and resolution; and (2)
+reactivation , which refers to recurrence of acute phase
+features. Regression may be complete or incomplete,
+including persistence of retinal abnormalities. Regression
+and reactivation should not be regarded as either thereverse or the repetition of acute ROP.
+Regression
+Patterns of acute-phase regression in ROP differ between
+spontaneous regression and t hose occurring after treat-
+ment. The Committee highlights features of regressionrelated to vasculature as well as peripheral ROP ﬁndings in
+Figure 11 .
+Theﬁrst visible signs of regression are typically vascular
+and tend to occur more rapidly after anti-VEGF therapy (as
+early as 1 e3 days)
+34than after laser photocoagulation(approximately 7 e14 days) or during spontaneous
+regression.33,35,36These signs include decreased plus
+disease, where components of vascular dilation and
+tortuosity may become uncoupled (e.g., after anti-VEGFinjection, reduced vessel dilatation can occur before
+reduced tortuosity, which may or may not occur), and
+vascularization into peripheral avascular retina, which canoccur spontaneously or after anti-VEGF treatment. Other
+clinical signs of regression include involution of tunica
+vasculosa lentis, better pupillary dilation, greater mediaclarity, and resolution of intraretinal hemorrhages.
+Regression of the ROP lesion is characterized by thin-
+ning and whitening of neovascular tissue. After spontaneous
+or treatment-induced regression, vascularization into theperipheral avascular retina can be complete or incomplete,
+the latter being termed persistent avascular retina (PAR;
+Fig 12 ). Persistent avascular retina may occur in either the
+peripheral or posterior retina. Compared with peripheral
+PAR after spontaneous regression, PAR after treatment
+Figure 9. OCT images demonstrating examples of stage 4 disease. OCT cross-sectional B-scans (left side) are extracted from the raster of scans that make up
+the OCT volumes, viewed as summed en face images (middle) with corresponding color photographs (right side). Note that in the color photographs, it is
+difﬁcult to discern the extent of retinal detachment, especially foveal involvement. In the en face OCT images and color photographs, the location of the
+fovea (asterisk) and margin of detachment (white dots) are determined from OCT B-scans. Blood in retinal vessels casts a shadow across the underlying
+retina and choroid in the en face views. A, Stage 4A retinal detachment. On the en face OCT image (middle), the yellow line demonstrates the location of
+the B-scan superior to the foveal center (upper left side, yellow box) and the green line demonstrates the location of the B-scan through the foveal cen ter
+(bottom left side, green box). Note the attached retina on B-scan at the foveal center (asterisk), along with intraretinal exudates (hyperre ﬂective dots),
+peripheral retinal detachment, and retinoschisis. B, Stage 4B retinal detachment. Note detachment of the retina at the foveal center (asterisks), which was
+very dif ﬁcult to appreciate on ophthalmoscopic examination.Ophthalmology Volume -, Number -, Month 2021
+10
+
+--- Page 11 ---
+with anti-VEGF agents seems to occur with greater fre-
+quency and involve a larger retinal area.37Persistent
+avascular retina should be described by its location (e.g.,posterior zone II) and extent (e.g., nasal).
+Reactivation
+Reactivation is seen more frequently after anti-VEGF
+treatment than after spontaneous regression and rarely ifever occurs after complete laser photocoagulation. Reac-
+tivation may occur after incomplete or complete regressionof the original ROP lesion. Although the maximum interval
+until reactivation after anti-VEGF injection is unknown,current evidence suggests it most commonly occurs between37 and 60 weeks ’postmenstrual age. However, this may be
+affected by choice and dosage of anti-VEGF agent and may
+occur signi ﬁcantly later, especially if reinjections are
+performed.
+38,39
+Signs of reactivation range from development of a new
+self-limiting demarcation line to reactivated stage 3 withplus disease. The Committee highlights features of disease
+reactivation related to vasculature and ROP lesions in
+Figure 10. Images demonstrating examples of stage 5 retinopathy of prematurity (ROP). A, Wide-angle fundus photograph showing stage 5A ROP,
+characterized by a total retinal detachment with visible optic disc. Note the open-funnel con ﬁguration. B, Wide-angle fundus photograph showing stage 5B
+ROP, with no view of the optic disc because of ﬁbrovascular tissue. C, External photograph of the normal anterior segment in stage 5B ROP (left side), with
+no view of the optic disc or retina secondary to retrolental ﬁbrovascular tissue. B-scan ultrasonography (right side) reveals total retinal detachment with a
+posteriorly closed funnel con ﬁguration. D, External photograph showing anterior segment characteristic of stage 5C ROP with anterior lens displacement,
+marked anterior chamber shallowing, central iridocapsular endothelial adhesion, and central corneal opaci ﬁcation (asterisk) that prevent view of a closed-
+funnel retinal detachment. Fig 10B: Permission to reproduce previously published images from Arch Ophthalmol 2005;123:991-999.Chiang et al/C15ICROP, 3rd Edition
+11
+
+--- Page 12 ---
+Figure 13 and notes that reactivation may not progress
+through the normal sequence of stages of acute-phasedisease.
+Vascular changes in ROP reactivation include recurrent
+vascular dilation, tortuosity, or both, similar to acute-phasepreplus or plus disease. Extraretinal new vessels can occur
+and may be relatively delicate compared with those of acute
+ROP, making them dif ﬁcult to visualize. Hemorrhages can
+occur around fronds of extraretinal vessels. Alternatively,
+extraretinal vessels may appear as a ﬁbrovascular ridge,
+which may progress to ﬁbrosis, contraction, and tractional
+detachment.
+28,29,40Documentation of reactivation should specify presence
+and location(s) of new ROP features, noted by zone andstage using the modi ﬁerreactivated . For example, presence
+of a demarcation line during reactivation would be noted as
+“reactivated stage 1. ”Reactivation typically occurs at the
+site of the original ridge, at the new leading edge of intra-
+retinal vascular growth, or both but also may occur else-
+where within the vascularized retina. If multiple ridges arepresent, the modi ﬁerreactivated is applied to the more
+anterior ridge, which is typically more active. Signs of
+reactivation may be relatively subtle ( Fig 13 G). Reactivation
+with progression to stages 4 and 5 ROP is associated with
+Figure 11. Wide-angle fundus photographs demonstrating examples of retinopathy of prematurity (ROP) regression. A, Regression after laser treatment. Left
+image obtained before treatment showing stage 3 ROP with plus disease. Middle image obtained 1 week after treatment showing that stage 3 ROP is thinner and
+whiter. Right image obtained 1 month after treatment showing disease regression. B, Regression of plus disease after anti evascular endothelial growth factor
+(VEGF) injection for aggressive ROP. Left image obtained before treatment showing plus disease and ﬂat neovascularization (stage 3 ROP). Right image
+obtained 2 weeks after treatment showing improvement in plus disease with no visible ROP lesion. C, Regression after anti-VEGF injection. Left image obtained
+before treatment. Right image obtained 4 weeks after treatment showing absence of stage 3 ROP and improvement in plus disease, with vascularization i nto
+peripheral avascular retina. Note the circumferential anastomosis in the area of original stage 3, along with reactivated stage 1 more anteriorly.Ophthalmology Volume -, Number -, Month 2021
+12
+
+--- Page 13 ---
+vitreous condensation, haze, ﬁbrotic contraction, retinal
+breaks, or a combination thereof.4,5,28,29,33,40
+Long-Term Sequelae
+Patients with a history of premature birth, even without a
+history of ROP, exhibit a spectrum of ocular abnormalitiesthat may lead to permanent sequelae ( Fig 12 ), as outlined
+below.4,33,41
+/C15Late tractional, rhegmatogenous, or, rarely, exudative
+retinal detachments ( Fig 12 D).42Retinal detachment
+occurring in the absence of signs of ROP activityshould not be designated as being the result of
+reactivation but rather as a sequela.43/C15Retinoschisis from chronic traction of involuted stage
+3 may progress without retinal detachment into the
+macula and may threaten visual ﬁeld and visual
+acuity.
+/C15Persistent avascular retina ( Fig 12 AeC). Avascular
+retina is prone to retinal thinning, holes, and lattice-
+like changes and may be associated with retinaldetachments later in life.42e45
+/C15Macular anomalies including smaller foveal avascular
+zone46e48and blunting or absence of the foveal
+depression ( Fig 12 E). These may be related to the
+degree of acute-phase ROP and may be more
+apparent with ﬂuorescein angiography or OCT
+imaging.24,37
+Figure 12. Examples of persistent avascular retina (PAR) and long-term sequelae of retinopathy of prematurity (ROP). A, Combined tractional and
+exudative detachment in an 18-year-old with a history of untreated ROP whose fellow eye was phthisical as a result of ROP. B, Ultra-wide ﬁeldﬂuorescein
+angiogram (FA) demonstrating PAR (asterisks) in a 7-year-old with a history of spontaneously regressed ROP. Note the abnormal vascular con ﬁguration,
+particularly inferotemporally (circle). C, Ultra-wide ﬁeld FA from a 7-year-old with spontaneously regressed ROP but with PAR and leakage in incompletely
+regressed stage 3 disease inferotemporally (asterisks). D, Ultra-wide ﬁeld fundus image (left side) displaying an incompletely regressed ridge (white arrow-
+heads) with PAR (asterisks) in a 15-year-old with a history of extreme prematurity and no prior ROP treatment. Ultra-wide ﬁeld fundus image obtained 2
+years later (right side) when the patient demonstrated a macula-involving rhegmatogenous retinal detachment. The fellow eye had a similar appearan ce and
+disease course. E, OCT angiography image of an incompletely developed foveal contour (left) and poorly de ﬁned foveal avascular zone (right) in a 7-year-old
+with history of type 1 ROP treated with laser therapy.Chiang et al/C15ICROP, 3rd Edition
+13
+
+--- Page 14 ---
+/C15Retinal vascular changes. These may include persistent
+tortuosity, straightening of the vascular arcades withmacular dragging, and falciform retinal fold.
+Abnormal nondichotomous retinal vessel branching,
+circumferential interconnecting vascular arcades, andtelangiectatic vessels occur frequently. Vitreous hem-
+orrhage may occur.
+/C15Glaucoma. Eyes with history of ROP can demon-
+strate secondary angle-closure glaucoma later in
+life.49,50
+Figure 13. Examples of retinopathy of prematurity (ROP) reactivation. A, Image obtained at 38 weeks ’postmenstrual age (PMA) after intravitreal
+antievascular endothelial growth factor (VEGF) injection at 32 weeks ’PMA with vascularization into the peripheral avascular retina. Demarcation line
+(arrow) at the leading edge is reactivated stage 1 ROP. B, Image showing a left eye at 100 weeks ’PMA after treatment with intravitreal anti-VEGF injection
+at 38 weeks ’PMA. Vascularization into the peripheral avascular retina is present. Often notable vascular abnormalities are present at the site of the original
+ridge and, in some cases, residual ﬁbrosis (asterisk), which is not indicative of reactivation unless accompanied by increasing vascular activity. C, Image
+showing vascularization into the peripheral avascular retina with reactivated stage 1 disease (arrow) at 68 weeks ’PMA, after treatment with intravitreal anti-
+VEGF injection at 37 weeks ’PMA. Note multiple circumferential vascular loops at the site of the original ridge (asterisk). D, Image showing reactivation in
+a right eye at 67 weeks ’PMA that had undergone intravitreal anti-VEGF injection at 33 weeks ’and again at 52 weeks ’PMA. Reactivated stage 3 disease
+(asterisk) is present posterior to the leading edge of vascularization (arrow). E, Image showing a left eye with reactivated stage 3 ROP at the leading edge
+(arrow) at 50 weeks ’PMA, after intravitreal anti-VEGF injection at 36 weeks ’PMA. Vascularization into the peripheral avascular retina has occurred
+between the original ridge (asterisks) and anterior reactivation. F, Fluorescein angiogram obtained at 45 weeks ’PMA of a left eye that had received an
+intravitreal anti-VEGF injection at 34 weeks ’PMA. Leakage is present both at sites of leading edge reactivation (arrow) and at the original border (asterisk).
+G, Image showing right eye with zone I disease treated with intravitreal anti-VEGF injection at 34 weeks ’PMA (left side, arrow) and that appeared regressed
+on clinical examination at 38 weeks ’PMA (middle image, arrow). At 51 weeks ’PMA, the eye demonstrated reactivated stage 3 ROP at the same site (right
+side, arrow) without evidence of vascularization into peripheral avascular retina.Ophthalmology Volume -, Number -, Month 2021
+14
+
+--- Page 15 ---
+Conclusions
+Understanding of disease pathophysiologic features and
+clinical management of ROP have evolved with advances
+in science, technology, and the art of medicine. Since the
+ICROP publication in 2005, some speci ﬁc advances have
+involved neonatal care, anti-VEGF therapy,
+ophthalmic imaging, machine l earning, and pediatric vit-
+reoretinal surgery. This article updates ROP classi ﬁcation
+in response to those advances by integrating review of
+evidence-based literature with expert consensus
+opinion. Table 1 summarizes how the ICROP3 maintains
+many existing classi ﬁcation metrics, while re ﬁning and
+adding others such as revised classi ﬁcation metrics
+(e.g., posterior zone II, notch, subcategorization ofstage 5, and recognition of a continuous spectrum ofvascular abnormality while maintaining the terms
+preplus disease and plus disease ), the de ﬁnition of
+A-ROP to replace aggressive-posterior ROP, andthe de ﬁnition of nomenclature representing ROP regres-
+sion and reactivation. These principles will provide a
+foundation for improving research and clinical care in thefuture.Nevertheless, the ICROP3 simply marks a point in the
+journey toward improving ROP care and outcomes. Wehope this will lead to increased understanding of acute-
+phase ROP, its regression, and its reactivation. Areas in
+need of additional research include methods for quantifyingvascular changes, including rate of disease progression;characterizing clinical ﬁndings using other imaging methods
+(e.g., ﬂuorescein angiography, OCT); understanding long-
+term risks of PAR; and elucidating signs and timing ofROP reactivation. Further collaboration with other care-
+givers and investigators will improve the quality and stan-
+dardization of ROP care worldwide.
+Acknowledgments
+The authors thank Lauren Kalinoski, MS, CMI (University of Il-
+linois at Chicago) for assistance with artwork; Jimmy Chen, BA
+(Oregon Health & Science University) and Shwetha Mangalesh,MBBS (Duke University) for assistance with images; and FarukOrge, MD (Case Western Reserve University), Sonal Farzavandi,
+FRCS(Edin) (Singapore National Eye Centre), and Derek
+Sprunger, MD (Indiana University School of Medicine) for supportof this project through the International Pediatric Ophthalmology
+& Strabismus Council.
+Footnotes and Disclosures
+Originally received: March 29, 2021.
+Final revision: May 27, 2021.
+Accepted: May 28, 2021.Available online:
+--- . Manuscript no. D-21-00645.
+1National Eye Institute, National Institutes of Health, Bethesda, Maryland.
+2Division of Ophthalmology, Children ’s Hospital of Philadelphia, Scheie
+Eye Institute, Raymond and Ruth Perelman School of Medicine at the
+University of Pennsylvania, Philadelphia, Pennsylvania.
+3Department of Optometry and Visual Science, University of London,
+London, United Kingdom.
+4Department of Ophthalmology, Casey Eye Institute, Oregon Health &
+Science University, Portland, Oregon.
+5Department of Ophthalmology and Visual Sciences, Illinois Eye and Ear
+Inﬁrmary, University of Illinois at Chicago, Chicago, Illinois.
+6Department of Ophthalmology, Bascom Palmer Eye Institute, University
+of Miami Miller School of Medicine, Miami, Florida.
+7Retina Consultants, Ltd., Des Plaines, Illinois.
+8Department of Ophthalmology, University of Chicago, Chicago, Illinois.
+9Associated Retinal Consultants, PC, Royal Oak, Michigan, and Depart-
+ment of Ophthalmology, Oakland University, William Beaumont HospitalSchool of Medicine, Auburn Hills, Michigan.
+10Department of Ophthalmology, China-Japan Friendship Hospital, Bei-
+jing, China.
+11Ophthalmology Department, Queensland Children ’s Hospital, Brisbane,
+Australia.
+12Calgary Retina Consultants, Calgary, Canada.
+13Department of Ophthalmology, University of Edinburgh, Edinburgh,
+United Kingdom.
+14Smith-Kettlewell Eye Research Institute, San Francisco, California.
+15Department of Ophthalmology and Visual Sciences, John A. Moran Eye
+Center, University of Utah, Salt Lake City, Utah.
+16Department Neuroscience/Ophthalmology, Uppsala University, Uppsala,
+Sweden.17Department of Ophthalmology, Kindai University, Osakasayama, Japan.
+18Department of Ophthalmology, KYDOFT Foundation, Santiago, Chile.
+19A. Gemelli Foundation IRCSS, Department of Ageing and Neuroscience,
+Catholic University of the Sacred Heart, Rome, Italy.
+20Department of Ophthalmology, Justus-Liebig-University Giessen, Gies-
+sen, Germany.
+21Department of Ophthalmology, Universitaetsklinikum Bonn, Bonn,
+Germany.
+22Retina Department, Asociación para Evitar la Ceguera en México,
+Mexico City, Mexico.
+23Department of Ophthalmology, School of Medicine, Gazi University,
+Ankara, Turkey.
+24Department of Ophthalmology, University of Ilorin, Ilorin, Nigeria.
+25Ross Eye Institute, Department of Ophthalmology, University at Buffalo,
+Buffalo, New York.
+26Department of Pediatric Retina and Ocular Oncology, Aravind Eye
+Hospital, Coimbatore, Tamil Nadu, India.
+27Department of Ophthalmology, University Medicine Greifswald,
+Greifswald, Germany.
+28Department of Ophthalmology, Duke University Medical Center,
+Durham, North Carolina.
+29Department of Pediatric Retina, Narayana Nethralaya Eye Institute,
+Bangalore, Karnataka, India.
+30Department of Ophthalmology, University of KwaZulu-Natal, Durban,
+South Africa.
+31Department of Ophthalmology, Indiana University School of Medicine,
+Indianapolis, Indiana.
+32Department of Ophthalmology, Chang Gung Memorial Hospital, Linkou,
+Taoyuan, Taiwan, and Chang Gung University, College of Medicine,
+Taoyuan, Taiwan.
+33Department of Ophthalmology, Xinhua Hospital af ﬁliated to Shanghai
+Jiao Tong University School of Medicine, Shanghai, China.Chiang et al/C15ICROP, 3rd Edition
+15
+
+--- Page 16 ---
+34Clinical Research Unit, Fernandes Figueira Institute, FIOCRUZ, Rio de
+Janeiro, Brazil.
+Disclosure(s):
+Michael Chiang, an editorial board member of this journal, was recused
+from the peer-review process of this article and had no access to informa-tion regarding its peer-review.
+All authors have completed and submitted the ICMJE disclosures form.The author(s) have made the following disclosure(s): M.F.C.: Consultant e
+Novartis; Financial support eGenentech; Equity owner eInTeleretina
+A.R.F.: Consultant eNovartis, Bayer
+R.V.P.C.: Scienti ﬁc Advisory Board ePhoenix Technology; Consultant e
+Alcon, Novartis
+J.P.C.: Financial support eGenentech
+A.C.: Equity owner ePhoenix Technology Group, LLC, Retinal Solutions,
+LLC; Founder eRetinal Solutions, LLC; Financial support eAURA
+Biosciences; Bayer; Genentech; Ionis Pharmaceuticals; Novartis; Regen-eron Pharmaceuticals
+B.W.F.: Consultant eNovartis
+M.E.H.: Consultant eRegeneron
+B.L.: Consultant eNovartis, Janssen
+D.L.: Consultant eNovartis, Bayer
+S¸.Ö.: Consultant eNovartis, Bayer, Allergan
+A.S.: Consultant eNovartis, Bayer; Financial support eNovartis
+C.A.T.: Royalties eAlcon; Founder and Equity owner eTheia Imaging,
+LLC
+W.-C.W.: Consultant eNovartis, Bayer, Allergan
+All authors are members of the International Committee for the Classi ﬁ-
+cation of Retinopathy of Prematurity.
+Michael F. Chiang had full access to all the data in the study and takes
+responsibility for the integrity of the data and the accuracy of the data
+analysis.
+Supported by the Knights Templar Eye Foundation; the Illinois Eye and Ear
+Inﬁrmary at the University of Illinois at Chicago, Chicago, Illinois; National
+Institutes of Health, Bethesda, Maryland (grant nos.: R01EY19474 [J.P.C.],
+K12EY027720 [J.P.C.], R01EY017011 [M.E.H.], F01EY01730 [M.E.H.],
+EY014800 [M.E.H.], R01EY025009 [C.A.T.], U01EY028079 [C.A.T.],P30EY005722 [C.A.T.], P30EY001792, and P30EY10572); the NationalScience Foundation (SCH-1622679 [J.P.C.]); Research to Prevent Blind-
+ness, Inc., New York, New York (unrestricted departmental funding, Career
+Development Award [J.P.C.], and Stein Award [C.A.T.]); and the Calvin S.and JeNeal N. Hatch Presidential Endowed Chair in Ophthalmology andVisual Sciences (M.E.H.). The sponsor or funding organization had no role
+in the design or conduct of this research.Presented in part at: American Academy of Ophthalmology Annual
+Meeting, November 2020 (virtual); and the American Association for Pe-
+diatric Ophthalmology & Strabismus Annual Meeting, April 2021 (virtual).
+HUMAN SUBJECTS: No human subjects were included in this study. The
+requirement for informed consent was waived because of the retrospectivenature of the study. All research adhered to the tenets of the Declaration ofHelsinki.
+No animal subjects were included in this study.
+Author Contributions:Conception and design: Chiang, Quinn, Fielder, Ostmo, Chan, Berrocal,
+Binenbaum, Blair, Campbell, Capone, Chen, Dai, Ells, Fleck, Good,Hartnett, Holmstrom, Kusaka, Kychenthal, Lepore, Lorenz, Martinez-
+Castellanos, Özdek, Ademola-Popoola, Reynolds, Shah, Shapiro, Stahl,
+Toth, Vinekar, Visser, Wallace, Wu, Zhao, Zin
+Analysis and interpretation: Chiang, Quinn, Fielder, Ostmo, Chan, Berro-
+cal, Binenbaum, Blair, Campbell, Capone, Chen, Dai, Ells, Fleck, Good,
+Hartnett, Holmstrom, Kusaka, Kychenthal, Lepore, Lorenz, Martinez-
+Castellanos, Özdek, Ademola-Popoola, Reynolds, Shah, Shapiro, Stahl,Toth, Vinekar, Visser, Wallace, Wu, Zhao, Zin
+Data collection: Chiang, Quinn, Fielder, Ostmo, Chan, Berrocal, Binen-
+baum, Blair, Campbell, Capone, Chen, Dai, Ells, Fleck, Good, Hartnett,
+Holmstrom, Kusaka, Kychenthal, Lepore, Lorenz, Martinez-Castellanos,Özdek, Ademola-Popoola, Reynolds, Shah, Shapiro, Stahl, Toth, Vinekar,Visser, Wallace, Wu, Zhao, Zin
+Obtained funding: Chan, Chiang, Quinn, Fielder, Ostmo, Campbell, Hart-
+nett, Toth; Study was performed as part of the authors
+’regular employment
+duties. No additional funding was provided.
+Overall responsibility: Chiang, Quinn, Fielder, Ostmo, Chan, Berrocal,
+Binenbaum, Blair, Campbell, Capone, Chen, Dai, Ells, Fleck, Good,
+Hartnett, Holmstrom, Kusaka, Kychenthal, Lepore, Lorenz, Martinez-
+Castellanos, Özdek, Ademola-Popoola, Reynolds, Shah, Shapiro, Stahl,Toth, Vinekar, Visser, Wallace, Wu, Zhao, Zin
+Abbreviations and Acronyms:
+A-ROP ¼aggressive retinopathy of prematurity; D¼diopter;
+ICROP ¼International Classi ﬁcation of Retinopathy of Prematurity;
+ICROP3 ¼International Classi ﬁcation of Retinopathy of Prematurity,
+Third Edition; PAR ¼persistent avascular retina; ROP ¼retinopathy of
+prematurity; VEGF ¼vascular endothelial growth factor.
+Keywords:
+Neonatology, Pediatric ophthalmology, Prematurity, Retina, Retinopathy ofprematurity.
+Correspondence:
+Michael F. Chiang, MD, National Eye Institute, National Institutes of
+Health, Building 31, Room 6A03, 31 Center Drive, MSC 2510, Bethesda,MD 20892. E-mail: michael.chiang@nih.gov.
+References
+1.Reese AB, King MJ, Owens WC. Classi ﬁcation of retrolental
+ﬁbroplasia. Am J Ophthalmol . 1953;36(10):1333 e1335 .
+2.The Committee for the Classi ﬁcation of Retinopathy of Pre-
+maturity. An international classi ﬁcation of retinopathy of
+prematurity. Arch Ophthalmol . 1984;102(8):1130 e1134 .
+3.Cryotherapy for Retinopathy of Prematurity Cooperative
+Group. Multicenter trial of cryotherapy for retinopathy ofprematurity. Preliminary results. Arch Ophthalmol .
+1988;106(4):471 e479.
+4.International Classi ﬁcation of Retinopathy of Prematurity
+Committee for Classi ﬁcation of Late Stages of ROP. An in-
+ternational classi ﬁcation of retinopathy of prematurity: II. The
+classi ﬁcation of retinal detachment. Arch Ophthalmol .
+1987;105:906 e912.5.Committee for the Classi ﬁcation of Retinopathy of Prematu-
+rity. The International Classi ﬁcation of Retinopathy of Pre-
+maturity revisited. Arch Ophthalmol . 2005;123(7):991 e999.
+6.Mintz-Hittner HA, Kennedy KA, Chuang AZ; BEAT-ROP
+Cooperative Group. Ef ﬁcacy of intravitreal bevacizumab for
+stage 3 þretinopathy of prematurity. N Engl J Med .
+2011;364(7):603 e615.
+7.Stahl A, Lepore D, Fielder A, et al. Ranibizumab versus laser
+therapy for the treatment of very low birthweight infants with
+retinopathy of prematurity (RAINBOW): an open-labelrandomised controlled trial. Lancet . 2019;394(10208):
+1551e1559 .
+8.Provis JM. Development of the primate retinal vasculature.
+Prog Retin Eye Res . 2001;20(6):799 e821.Ophthalmology Volume -, Number -, Month 2021
+16
+
+--- Page 17 ---
+9.Gallagher K, Moseley MJ, Tandon A, et al. Nasotemporal
+asymmetry of retinopathy of prematurity. Arch Ophthalmol .
+2003;121(11):1563 e1568 .
+10.Isenberg SJ. Macular development in the premature infant. Am
+J Ophthalmol . 1986;101(1):74 e80.
+11.De Silva DJ, Cocker KD, Lau G, Clay ST, Fielder AR,
+Moseley MJ. Optic disk size and optic disk-to-fovea distancein preterm and full-term infants. Invest Ophthalmol Vis Sci .
+2006;47(11):4683 e4686 .
+12.Chiang MF, Thyparampil PJ, Rabinowitz D. Interexpert
+agreement in the identi ﬁcation of macular location in infants at
+risk for retinopathy of prematurity. Arch Ophthalmol .
+2010;128(9):1153 e1159 .
+13.Quinn GE, Schaffer DB, Johnson L. A revised classi ﬁcation of
+retinopathy of prematurity. Am J Ophthalmol . 1982;94(6):
+744e749.
+14.Capone Jr A, Ells AL, Fielder AR, et al. Standard image of
+plus disease in retinopathy of prematurity. Arch Ophthalmol .
+2006;124(11):1669 e1670 .
+15.Gelman SK, Gelman R, Callahan AB, et al. Plus disease in
+retinopathy of prematurity: quantitative analysis of standardpublished photograph. Arch Ophthalmol . 2010;128(9):
+1217e1220 .
+16.Kim SJ, Campbell JP, Kalpathy-Cramer J, et al. Accuracy and
+reliability of eye-based vs quadrant-based diagnosis of plusdisease in retinopathy of prematurity. JAMA Ophthalmol .
+2018;136(6):648 e655.
+17.Early Treatment for Retinopathy of Prematurity Cooperative
+Group. Revised indications for the treatment of retinopathy ofprematurity: results of the early treatment for retinopathy of
+prematurity randomized trial. Arch Ophthalmol . 2003;121(12):
+1684e1694 .
+18.Chiang MF, Jiang L, Gelman R, et al. Interexpert agreement of
+plus disease diagnosis in retinopathy of prematurity. Arch
+Ophthalmol . 2007;125(7):875 e880.
+19.Wallace DK, Quinn GE, Freedman SF, Chiang MF. Agree-
+ment among pediatric ophthalmologists in diagnosing plus andpre-plus disease in retinopathy of prematurity. J AAPOS .
+2008;12(4):352
+e356.
+20.Fleck BW, Williams C, Juszczak E, et al. An international
+comparison of retinopathy of prematurity grading performance
+within the Bene ﬁts of Oxygen Saturation Targeting II trials.
+Eye. 2018;32(1):74 e80.
+21.Campbell JP, Kalpathy-Cramer J, Erdogmus D, et al. Plus
+disease in retinopathy of prematurity: a continuous spectrum of
+vascular abnormality as a basis of diagnostic variability.
+Ophthalmology . 2016;123(11):2338 e2344 .
+22.Gschlieber A, Stifter E, Neumayer T, et al. Effect of pa-
+tients ’clinical information on the diagnosis of and decision
+to treat retinopathy of prematurity. Retina . 2018;38(11):
+2253e2259 .
+23.Wallace DK, Kylstra JA, Greenman DB, Freedman SF.
+Signi ﬁcance of isolated neovascular tufts ( “popcorn ”)i n
+retinopathy of prematurity. J AAPOS . 1998;2(1):52 e56.
+24.Lepore D, Molle F, Pagliara MM, et al. Atlas of ﬂuorescein
+angiographic ﬁndings in eyes undergoing laser for reti-
+nopathy of prematurity. Ophthalmology . 2011;118(1):
+168e175.
+25.Flynn JT, Chan-Ling T. Retinopathy of prematurity: two
+distinct mechanisms that underlie zone 1 and zone 2 disease.
+Am J Ophthalmol . 2006;142(1):46 e59.e2 .
+26.Shah PK, Narendran V, Saravanan VR, et al. Fulminate reti-
+nopathy of prematurity dclinical characteristics and laser
+outcome. Indian J Ophthalmol . 2005;53(4):261 e265.27.Sanghi G, Dogra MR, Dogra M, Katoch D, Gupta A. A hybrid
+form of retinopathy of prematurity. Br J Ophthalmol .
+2012;96(4):519 e522.
+28.Hartnett ME, McColm JR. Retinal features predictive of pro-
+gressive stage 4 retinopathy of prematurity. Retina .
+2004;24(2):237 e241.
+29.Kondo H, Arita N, Osato M, et al. Late recurrence of retinal
+detachment following successful vitreous surgery for stages
+4B and 5 retinopathy of prematurity. Am J Ophthalmol .
+2009;147(4):661 e666.e1 .
+30.Jabbour NM, Eller AE, Hirose T, et al. Stage 5 retinopathy of
+prematurity. Prognostic value of morphologic ﬁndings.
+Ophthalmology . 1987;94(12):1640 e1646 .
+31.Gadkari SS, Deshpande M, Kulkarni S. Minimally ﬁbrotic
+stage 5 ROP: a clinical prognostic factor in eyes undergoingvitrectomy for stage 5 retinopathy of prematurity. Graefes
+Arch Clin Exp Ophthalmol . 2016;254(7):1303 e1309 .
+32.Ozsaygili C, Ozdek S, Ozmen MC, et al. Preoperative
+anatomical features associated with improved surgical out-
+comes for stage 5 retinopathy of prematurity. Retina .
+2021;41(4):718 e725.
+33.Coats DK, Miller AM, Hussein MAW, et al. Involution of
+retinopathy of prematurity after laser treatment: factors
+associated with development of retinal detachment. Am J
+Ophthalmol . 2005;140(2):214 e222.
+34.Stahl A, Krohne TU, Eter N, et al. Comparing alternative
+ranibizumab dosages for safety and ef ﬁcacy in retinopathy of
+prematurity: a randomized clinical trial. JAMA Pediatr .
+2018;172(3):278 e286.
+35.Ling CS, Fleck BW, Wright E, et al. Diode laser treatment for
+retinopathy of prematurity: structural and functional outcome.
+Br J Ophthalmol . 1995;79(7):637 e641.
+36.Kwon JY, Ghodasra DH, Karp KA, et al. Retinal vessel
+changes after laser treatment for retinopathy of prematurity.
+J AAPOS . 2012;16(4):350 e353.
+37.Vural A, Ekinci DY, Onur IU, et al. Comparison of ﬂuorescein
+angiographic ﬁndings in type 1 and type 2 retinopathy of pre-
+maturity with intravitreal bevacizumab monotherapy and
+spontaneous regression. Int Ophthalmol . 2019;39(10):
+2267e2274 .
+38.Mintz-Hittner HA, Geloneck MM, Chuang AZ. Clinical
+management of recurrent retinopathy of prematurity after
+intravitreal bevacizumab monotherapy. Ophthalmology .
+2016;123(9):1845
+e1855 .
+39.Wallace DK, Dean TW, Hartnett ME, et al. A dosing study of
+bevacizumab for retinopathy of prematurity: late recurrences
+and additional treatments. Ophthalmology . 2018;125(12):
+1961e1966 .
+40.Yonekawa Y, Thomas BJ, Thanos A, et al. The cutting edge
+of retinopathy of prematurity care: expanding the bound-
+aries of diagnosis and treatment. Retina . 2017;37(12):
+2208e2225 .
+41.Bowl W, Lorenz B, Stieger K, et al. Fundus-controlled dark
+adaptometry in young children without and with spontane-
+ously regressed retinopathy of prematurity. Transl Vis Sci
+Technol . 2019;8(3):62 .
+42.Uner OE, Rao P, Hubbard 3rd GB. Reactivation of retinopathy
+of prematurity in adults and adolescents. Ophthalmol Retina .
+2020;4(7):720 e727.
+43.Hamad AE, Moinuddin O, Blair MP, et al. Late-onset retinal
+ﬁndings and complications in untreated retinopathy of
+prematurity. Ophthalmol Retina . 2020;4(6):602 e612.
+44.Garcia Gonzalez JM, Snyder L, Blair M, et al. Prophylactic
+peripheral laser and ﬂuorescein angiography afterChiang et al/C15ICROP, 3rd Edition
+17
+
+--- Page 18 ---
+bevacizumab for retinopathy of prematurity. Retina .
+2018;38(4):764 e772.
+45.Al-Taie R, Simkin SK, Douçet E, Dai S. Persistent avascular
+retina in infants with a history of type 2 retinopathy of pre-
+maturity: to treat or not to treat? J Pediatr Ophthalmol Stra-
+bismus . 2019;56(4):222 e228.
+46.Mintz-Hittner HA, Knight-Nanan DM, Satriano DR,
+Kretzer FL. A small foveal avascular zone may be an historic
+mark of prematurity. Ophthalmology . 1999;106(7):1409 e1413 .
+47.Takagi M, Maruko I, Yamaguchi A, et al. Foveal abnormal-
+ities determined by optical coherence tomography angiographyin children with history of retinopathy of prematurity. Eye.
+2019;33(12):1890 e1896 .
+48.Yanni SE, Wang J, Chan M, et al. Foveal avascular zone and
+foveal pit formation after preterm birth. Br J Ophthalmol .
+2012;96(7):961 e966.
+49.Bremer DL, Rogers DL, Good WV, et al. Glaucoma in the
+Early Treatment for Retinopathy of Prematurity (ETROP)study. J AAPOS . 2012;16(5):449 e452.
+50.Robinson J, Cheung AY, Nudleman E, et al. Ocular hyper-
+tension in adults with a history of prematurity. Ophthalmol
+Retina . 2018;2(6):629 e635.Ophthalmology Volume -, Number -, Month 2021
+18
