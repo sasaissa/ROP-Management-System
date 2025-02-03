@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Laravel](https://img.shields.io/badge/Laravel-10.x-red.svg)](https://laravel.com)
-[![ICROP3](https://www.medscinet.com/ROP/uploads/ICROP3%20-%20Ophthalmology%202021.pdf)
+[![ICROP3](https://img.shields.io/badge/Standard-ICROP3-green.svg)](https://www.medscinet.com/ROP/uploads/ICROP3%20-%20Ophthalmology%202021.pdf)
 
 A comprehensive medical platform for managing Retinopathy of Prematurity (ROP) cases following ICROP3 guidelines.
 
@@ -17,28 +17,28 @@ The ROP Management System is a state-of-the-art medical platform designed to rev
 ## ✨ Key Features
 
 ### 👥 Patient Management
-- Comprehensive patient profiles with medical history tracking
-- Automated gestational age calculations
-- Real-time status monitoring
-- Chronological examination & treatment views
+- Detailed patient profiles with comprehensive medical history
+- Automated gestational age calculations and risk factor tracking
+- Real-time patient status monitoring
+- Chronological view of examinations and treatments
 
 ### 🔍 Examination Module
-- ICROP3-compliant digital examination forms
-- Bilateral eye examination with zone mapping
-- Automated severity assessment
-- Smart follow-up scheduling
+- Structured digital examination forms following ICROP3 standards
+- Bilateral eye examination support with detailed zone mapping
+- Automated severity assessment based on international guidelines
+- Dynamic follow-up scheduling based on examination findings
 
 ### 💉 Treatment Automation
-- AI-powered treatment plan generation
-- 48-hour urgency assessment
-- Multi-treatment support (Anti-VEGF, Laser)
-- Priority-based scheduling
+- Intelligent treatment plan generation based on examination results
+- Automated urgency assessment with 48-hour treatment flagging
+- Support for multiple treatment types (Anti-VEGF, Laser)
+- Treatment scheduling with priority-based timing
 
 ### 🤖 Clinical Decision Support
-- Evidence-based recommendations
-- Automated risk assessment
-- Smart alerts system
-- Treatment effectiveness tracking
+- Evidence-based treatment recommendations
+- Automated risk assessment and progression tracking
+- Smart alerts for urgent cases and follow-up requirements
+- Treatment effectiveness monitoring
 
 ### 🎨 User Interface
 - Clean, intuitive interface designed for clinical settings
@@ -52,74 +52,53 @@ The ROP Management System is a state-of-the-art medical platform designed to rev
 - Audit trail for all clinical decisions
 - HIPAA-compliant data storage
 
-## 🛠️ Technical Stack
-- Laravel PHP Framework
-- MySQL Database
-- Tailwind CSS for responsive design
-- Modern JavaScript for interactive features
+## 🛠️ Technology Stack
+- **Backend:** Laravel 10.x
+- **Database:** MySQL 8.0
+- **Frontend:** Tailwind CSS
+- **Modern JavaScript for interactive features
 
-## 🚀 Getting Started
-[Installation instructions and requirements to be added]
+## 📋 Requirements
 
-## Contributing
-We welcome contributions from the medical and development communities. Please read our contributing guidelines for more information.
-
-## License
-[License information to be added]
-
-## Support
-[Support contact information to be added]
-
-## Acknowledgments
-This system was developed in collaboration with ophthalmologists and follows the latest International Classification of Retinopathy of Prematurity (ICROP3) guidelines.
-
----
-
-Built with ❤️ for improving premature infant care worldwide.
-
-
-## Features
-
-- Multi-role user management (Admin, Screening Officer Doctor, Ophthalmologist, NICU Doctor, Nurse)
-- Patient management and tracking
-- ROP screening and examination records
-- Treatment planning and tracking
-- Follows ICROP3 classification system
-- Secure medical data handling
-
-## Requirements
-
+### System Requirements
 - PHP 8.1 or higher
-- Composer
-- MySQL 8.0 or higher
+- MySQL 8.0+
 - Node.js & NPM
-- Git
+- Composer
 
-## Installation
+### Browser Support
+- Chrome (recommended)
+- Firefox
+- Safari
+- Edge
 
-1. Clone the repository:
+## 🚀 Installation
+
+1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/yourusername/rop-management.git
 cd rop-management
 ```
 
-2. Install PHP dependencies:
+2. Install PHP dependencies
 ```bash
 composer install
 ```
 
-3. Copy environment file:
+3. Install NPM dependencies
 ```bash
-cp .env.example .env
+npm install
+npm run dev
 ```
 
-4. Generate application key:
+4. Environment Setup
 ```bash
+cp .env.example .env
 php artisan key:generate
 ```
 
-5. Configure your database in .env file:
-```
+5. Configure your database in `.env`
+```env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
@@ -128,32 +107,43 @@ DB_USERNAME=your_username
 DB_PASSWORD=your_password
 ```
 
-6. Run migrations and seeders:
+6. Run migrations and seeders
 ```bash
 php artisan migrate --seed
 ```
 
-7. Install NPM dependencies:
-```bash
-npm install
-npm run dev
-```
+## 👥 Default Users
 
-8. Start the server:
-```bash
-php artisan serve
-```
+The system comes with pre-configured users for testing:
 
-## Default Users
+| Role | Email | Password |
+|------|--------|----------|
+| Admin | admin@rop.com | password |
+| Screening Officer | screening@rop.com | password |
+| Ophthalmologist | ophtha@rop.com | password |
+| NICU Doctor | nicu@rop.com | password |
+| Nurse | nurse@rop.com | password |
 
-After seeding, the following test users will be available:
+## 🤝 Contributing
 
-- Admin: admin@rop.com / password
-- Screening Officer: screening@rop.com / password
-- Ophthalmologist: ophthalmologist@rop.com / password
-- NICU Doctor: nicu@rop.com / password
-- Nurse: nurse@rop.com / password
+We welcome contributions from the medical and development communities. Please read our contributing guidelines for more information.
 
-## License
+## 📜 License
 
 The ROP Management System is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## 💬 Support
+
+For support inquiries, please contact:
+- Technical Support: [Coming Soon]
+- Medical Guidance: [Coming Soon]
+
+## 🙏 Acknowledgments
+
+This system was developed in collaboration with ophthalmologists and follows the latest International Classification of Retinopathy of Prematurity (ICROP3) guidelines.
+
+---
+
+<div align="center">
+Built with ❤️ for improving premature infant care worldwide
+</div>
