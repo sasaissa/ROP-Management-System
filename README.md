@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Laravel](https://img.shields.io/badge/Laravel-10.x-red.svg)](https://laravel.com)
-[![ICROP3](https://img.shields.io/badge/Standard-ICROP3-green.svg)](https://www.aao.org/topic-detail/retinopathy-of-prematurity-classification)
+[![ICROP3](https://img.shields.io/badge/Standard-ICROP3-green.svg)](https://www.medscinet.com/ROP/uploads/ICROP3%20-%20Ophthalmology%202021.pdf)
 
 A comprehensive medical platform for managing Retinopathy of Prematurity (ROP) cases following ICROP3 guidelines.
 
